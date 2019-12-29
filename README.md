@@ -1,0 +1,1 @@
+# phpbb-extension-easy-post-image-upload
